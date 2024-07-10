@@ -23,9 +23,11 @@ color:rgb(157, 183, 231)
 }
 .center {
     display: block;
+    margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
     width: 19%;
+    
   }
   .center1{
     display: block;
@@ -38,6 +40,7 @@ color:rgb(157, 183, 231)
   }
   .center2{
     display: block;
+    margin-top: 50px;
     margin-left: 480px;
     margin-right: 20px;
     width: 30%; 
@@ -85,7 +88,8 @@ justify-content: space-between;
 
   }
   .card1{
-
+height: 300px;
+width: 380px;
     margin-right: 15px;
 margin-left: 5px;
     padding: 10px;
@@ -94,6 +98,8 @@ margin-left: 5px;
     
   }
   .card2{
+    height: 300px;
+width: 380px;
     margin-right: 15px;
     margin-left: 5px;
     padding: 10px;
@@ -101,9 +107,31 @@ margin-left: 5px;
     background-color:lavender;
   }
   .card3{
+    height: 300px;
+width: 380px;
     margin-right: 10px;
     margin-left: 5px;
     padding: 10px;
     border-radius: 10px;
     background-color:lightyellow;
   }
+  .btn1{
+    
+    height: 30px;
+    background-color:white;
+    border-radius: 5px;
+color:black}
+
+.footerimage{
+  background-image: url(image/handshake.jpg);
+  height:680px;
+}
+.foot{
+  margin:50px 100px 100px 100px;
+  padding: 50px;
+
+}
+.inputf{
+margin:100 px,100 px,100 px,100 px;
+  
+}
