@@ -41,5 +41,24 @@ color:rgb(157, 183, 231)
     margin-right: 20px;
     width: 30%; 
     font-size: 15px;
-    
+  }
+  .page{
+display: flex;
+justify-content: space-between;
+    background-color:white
   
+    
+  }
+  .page1{
+    display: flex;
+    justify-content: space-between;
+        background-color:  rgba(253, 251, 251, 0.952);
+      
+        
+      }
+  .mainpart{
+    background-color: rgba(253, 251, 251, 0.952);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 30px;
+  }
