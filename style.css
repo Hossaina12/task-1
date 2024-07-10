@@ -34,13 +34,15 @@ color:rgb(157, 183, 231)
     width: 30%; 
     font-size: 30px;
     font-weight: 800;
+    text-align: center;
   }
   .center2{
     display: block;
-    margin-left: 500px;
+    margin-left: 480px;
     margin-right: 20px;
     width: 30%; 
     font-size: 15px;
+    text-align: center;
   }
   .page{
 display: flex;
@@ -62,3 +64,16 @@ justify-content: space-between;
     margin-right: 100px;
     padding: 30px;
   }
+  .videopart{
+    display: block;
+    width: auto;
+    border: 10px;
+    border-color: rgb(15, 7, 7);
+    padding-left: 30px;
+    background-color: white;
+  
+  }
+  .bgcolor{
+    background-color:white
+  }
+  
