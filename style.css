@@ -127,11 +127,19 @@ color:black}
   height:680px;
 }
 .foot{
-  margin:50px 100px 100px 100px;
-  padding: 50px;
+
+  margin:100px 100px 100px 100px;
+padding: 50px;
 
 }
 .inputf{
 margin:100 px,100 px,100 px,100 px;
   
+}
+footer input[type="text"]{
+  height: 50 px;
+  width:80%;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: none;
 }
